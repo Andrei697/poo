@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584014381 source:d:\jjg\rdt\main.cpp
+	<iostream>
+	<math.h>
+	<cassert>
+
